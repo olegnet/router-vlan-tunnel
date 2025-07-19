@@ -279,7 +279,6 @@ Chain POSTROUTING (policy ACCEPT 36507 packets, 2420K bytes)
 - Protocol: Any
 - Source: Network xxx.xxx.xxx.0/24 – подсеть для WireGuard
 - Destination: LAN Subnets
-- Gateway: GW_1
 
 Второе правило:
 - Action: Pass
